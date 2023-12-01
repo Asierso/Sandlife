@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 290698ae7d91a6b40b6b4b20d1c26bb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7890304930634648986
+    second: keycups_0
+  - first:
+      213: 9171111790097040417
+    second: keycups_1
+  - first:
+      213: -7870375733238679830
+    second: keycups_2
+  - first:
+      213: -5752485018996387567
+    second: keycups_3
+  - first:
+      213: -8972351958926137261
+    second: keycups_4
+  - first:
+      213: 523470693520009283
+    second: keycups_5
+  - first:
+      213: 1478307652728002718
+    second: keycups_6
+  - first:
+      213: -1983706474492456117
+    second: keycups_7
+  - first:
+      213: -4923191001211856069
+    second: keycups_8
+  - first:
+      213: 2661101436441737484
+    second: keycups_9
+  - first:
+      213: -4068424223309120542
+    second: keycups_10
+  - first:
+      213: -8178180553125435548
+    second: keycups_11
+  - first:
+      213: -2527024430623511200
+    second: keycups_12
+  - first:
+      213: -7602500745030349347
+    second: keycups_13
+  - first:
+      213: 4955495610405854654
+    second: keycups_14
+  - first:
+      213: 5911844386491097361
+    second: keycups_15
+  - first:
+      213: -3058311057486722892
+    second: keycups_16
+  - first:
+      213: -4647536583296153605
+    second: keycups_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: keycups_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 150
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dcdff978eff7d60800000000000000
+      internalID: 7890304930634648986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124812c1595564f70800000000000000
+      internalID: 9171111790097040417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6347b38fec6c290800000000000000
+      internalID: -7870375733238679830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_3
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 960
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111d6fa6a511b20b0800000000000000
+      internalID: -5752485018996387567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 960
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586d605e6dcb7380800000000000000
+      internalID: -8972351958926137261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 960
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348669182ddb34700800000000000000
+      internalID: 523470693520009283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 960
+        width: 130
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98189d4af0048410800000000000000
+      internalID: 1478307652728002718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 320
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b431c39b8757874e0800000000000000
+      internalID: -1983706474492456117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 640
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b1e5b5edf4dabb0800000000000000
+      internalID: -4923191001211856069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09346648a12ee420800000000000000
+      internalID: 2661101436441737484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb01e69bd0a87c0800000000000000
+      internalID: -4068424223309120542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 320
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46763f5ed14418e80800000000000000
+      internalID: -8178180553125435548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 320
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06da3f94ba43eecd0800000000000000
+      internalID: -2527024430623511200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_13
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 640
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddc2d72add7e7690800000000000000
+      internalID: -7602500745030349347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 320
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd9f38900575c440800000000000000
+      internalID: 4955495610405854654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_15
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 320
+        width: 90
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1116030b5271b0250800000000000000
+      internalID: 5911844386491097361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 320
+        width: 90
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8caddfb42be85d0800000000000000
+      internalID: -3058311057486722892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keycups_17
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 320
+        width: 90
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf70008e912a08fb0800000000000000
+      internalID: -4647536583296153605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      keycups_6: 1478307652728002718
+      keycups_9: 2661101436441737484
+      keycups_12: -2527024430623511200
+      keycups_16: -3058311057486722892
+      keycups_3: -5752485018996387567
+      keycups_8: -4923191001211856069
+      keycups_15: 5911844386491097361
+      keycups_14: 4955495610405854654
+      keycups_2: -7870375733238679830
+      keycups_5: 523470693520009283
+      keycups_17: -4647536583296153605
+      keycups_7: -1983706474492456117
+      keycups_13: -7602500745030349347
+      keycups_0: 7890304930634648986
+      keycups_4: -8972351958926137261
+      keycups_11: -8178180553125435548
+      keycups_10: -4068424223309120542
+      keycups_1: 9171111790097040417
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
